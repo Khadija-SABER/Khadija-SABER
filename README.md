@@ -18,19 +18,35 @@
   My responsibilities included facilitating communication between stakeholders and technical teams, drafting functional specifications, and leading requirements-gathering workshops.<br>
   I have contributed to projects involving intelligent document processing, conversational AI, and predictive analytics in fields such as education.
 </p>
-<h1>🔍 Fields of Interests:</h1>
+<h2>🔍 Fields of Interests</h2>
 
-<ul>
-  <li>Business Intelligence</li>
-  <li>Machine Learning</li>
-  <li>Deep Learning</li>
-  <li>Computer Vision</li>
-  <li>Natural Language Processing</li>
-  <li>Data Visualization</li>
-  <li>Cloud Computing</li>
-  <li>Big Data</li>
-  <li>Data Engineering</li>
-</ul>
+<table>
+  <tr>
+    <td>💻 Object-Oriented Programming (Java & C#)</td>
+    <td>📊 Business Intelligence</td>
+  </tr>
+  <tr>
+    <td>🤖 Machine Learning</td>
+    <td>🧠 Deep Learning</td>
+  </tr>
+  <tr>
+    <td>👁️‍🗨️ Computer Vision</td>
+    <td>🗣️ Natural Language Processing</td>
+  </tr>
+  <tr>
+    <td>⏱️ Time Series</td>
+    <td>📈 Data Visualization</td>
+  </tr>
+  <tr>
+    <td>☁️ Cloud Computing</td>
+    <td>💾 Big Data</td>
+  </tr>
+  <tr>
+    <td>🔧 Data Engineering</td>
+    <td></td>
+  </tr>
+</table>
+
 
 <h1>🎓 Education:</h1>
 
