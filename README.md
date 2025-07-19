@@ -16,8 +16,7 @@
   <strong>I am a Data Scientist and Knowledge Engineer with over one year of experience supporting data-driven projects from both technical and functional perspectives.</strong><br><br>
   I have contributed to the planning and monitoring of projects to ensure alignment between business needs and delivered solutions.<br>
   My responsibilities included facilitating communication between stakeholders and technical teams, drafting functional specifications, and leading requirements-gathering workshops.<br>
-  I have also participated in data quality checks and the coordination of project data management processes.<br>
-  Additionally, I have contributed to projects involving intelligent document processing, conversational AI, and predictive analytics in fields such as education.<br>
-  With a strong understanding of data architecture and workflow optimization, I aim to create systems that not only solve complex problems, but scale with purpose and clarity.
+  I have contributed to projects involving intelligent document processing, conversational AI, and predictive analytics in fields such as education.
 </p>
+
 
