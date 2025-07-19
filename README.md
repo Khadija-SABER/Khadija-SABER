@@ -32,4 +32,13 @@
   <li>Data Engineering</li>
 </ul>
 
+<h1>🎓 Education:</h1>
+
+<ul>
+  <li>Degree in Knowledge Engineering and Data Science</li>
+  <li>Preparation classes for the Grandes Écoles</li>
+  <li>Baccalaureate in Mathematical Sciences</li>
+</ul>
+
+
 
