@@ -22,7 +22,7 @@
 
 <table>
   <tr>
-    <td>💻 Object-Oriented Programming (Java & C#)</td>
+    <td>🔧 Data Engineering</td>
     <td>📊 Business Intelligence</td>
   </tr>
   <tr>
@@ -40,10 +40,6 @@
   <tr>
     <td>☁️ Cloud Computing</td>
     <td>💾 Big Data</td>
-  </tr>
-  <tr>
-    <td>🔧 Data Engineering</td>
-    <td></td>
   </tr>
 </table>
 
