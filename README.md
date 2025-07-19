@@ -7,7 +7,7 @@
 <br>
 <br>
 <p align="center">
-  <img src="https://i.pinimg.com/736x/0c/82/75/0c8275ba087ddfbee1c2eebb46ad5806.jpg" alt="Data Girl" height="250"/>
+  <img src="https://i.pinimg.com/736x/0c/82/75/0c8275ba087ddfbee1c2eebb46ad5806.jpg" alt="Data Girl" height="300"/>
 </p>
 
 
