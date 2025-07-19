@@ -43,7 +43,7 @@
   </tr>
 </table>
 
-<h1>💻 Tech Stack</h1>
+<h1>🚀 Data & AI Toolkit</h1>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
